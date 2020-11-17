@@ -52,7 +52,7 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#2](https://github.com/loutfialiluch/HealthCare/issues/2) in [loutfialiluch/HealthCare](https://github.com/loutfialiluch/HealthCare)
-2. 🗣 Commented on [#1](https://github.com/loutfialiluch/HealthCare/issues/1) in [loutfialiluch/HealthCare](https://github.com/loutfialiluch/HealthCare)
-3. 🗣 Commented on [#2](https://github.com/loutfialiluch/HealthCare/issues/2) in [loutfialiluch/HealthCare](https://github.com/loutfialiluch/HealthCare)
+1. 🗣 Commented on [#2](https://github.com/Loutfox/HealthCare/issues/2) in [Loutfox/HealthCare](https://github.com/Loutfox/HealthCare)
+2. 🗣 Commented on [#1](https://github.com/Loutfox/HealthCare/issues/1) in [Loutfox/HealthCare](https://github.com/Loutfox/HealthCare)
+3. 🗣 Commented on [#2](https://github.com/Loutfox/HealthCare/issues/2) in [Loutfox/HealthCare](https://github.com/Loutfox/HealthCare)
 <!--END_SECTION:activity-->
