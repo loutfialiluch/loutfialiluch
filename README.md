@@ -33,26 +33,26 @@
 
 <h3> Connect with me: </h3>
 
-<a href="https://twitter.com/LoutFoxx" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ilyass_trh" height="30" width="40" /></a>
+<a href="https://twitter.com/loutfialiluch" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ilyass_trh" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/loutfi-aliluch-540bbb196/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ilyasstrh" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/11546384/loutfi-aliluch" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="11302477" height="30" width="40" /></a>
 <a href="https://www.instagram.com/loutfialiluch/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="11302477" height="30" width="40" /></a>
 
 > <br />
 
-<a href="https://github.com/Loutfox">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Loutfox&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/loutfialiluch">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loutfialiluch&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-<a href="https://github.com/Loutfox">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Loutfox&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+<a href="https://github.com/loutfialiluch">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=loutfialiluch&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#2](https://github.com/Loutfox/HealthCare/issues/2) in [Loutfox/HealthCare](https://github.com/Loutfox/HealthCare)
-2. 🗣 Commented on [#1](https://github.com/Loutfox/HealthCare/issues/1) in [Loutfox/HealthCare](https://github.com/Loutfox/HealthCare)
-3. 🗣 Commented on [#2](https://github.com/Loutfox/HealthCare/issues/2) in [Loutfox/HealthCare](https://github.com/Loutfox/HealthCare)
+1. 🗣 Commented on [#2](https://github.com/loutfialiluch/HealthCare/issues/2) in [loutfialiluch/HealthCare](https://github.com/loutfialiluch/HealthCare)
+2. 🗣 Commented on [#1](https://github.com/loutfialiluch/HealthCare/issues/1) in [loutfialiluch/HealthCare](https://github.com/loutfialiluch/HealthCare)
+3. 🗣 Commented on [#2](https://github.com/loutfialiluch/HealthCare/issues/2) in [loutfialiluch/HealthCare](https://github.com/loutfialiluch/HealthCare)
 <!--END_SECTION:activity-->
