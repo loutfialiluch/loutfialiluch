@@ -1,4 +1,4 @@
-<h2> Hi folks, I'm Loutfi <img src="https://cliply.co/wp-content/uploads/2019/06/391906110_WAVING_HAND_400px.gif" width="40" height="40"/></h2>
+<h2> Hi folks, I'm Loutfi 👋</h2>
 
 <h3> I'm a full stack web developer, currently looking for an internship </h3>
 
