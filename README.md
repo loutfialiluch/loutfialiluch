@@ -4,7 +4,7 @@
 
 - ❤️ I'm a JavaScript Enthusiast ❤️
 - 🔭 My favorite front-end framework if I may say is ReactJS.
-- 💎 My JavaScript knowledge helped me grasp Salesforce frameworks for developing web components (Aura && LWC).
+- 💎 My JavaScript knowledge helped me grasp Salesforce frameworks for developing web components (Aura & LWC).
 - 🛠️ 80% of my full stack projects are done using the MERN Stack.
 - 🥅 My current goal is to get more familiar with the Salesforce Ecosystem while not ignoring web development.
 - 🌱 And yeah I know how to center a div 🤣
