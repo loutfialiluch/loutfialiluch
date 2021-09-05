@@ -1,12 +1,13 @@
 <h2> Hi folks, I'm Loutfi 👋</h2>
 
-<h3> I'm a full stack web developer, currently looking for an internship </h3>
+<h3> I'm a Full Stack Web Developer & a Salesforce Developer , currently working as a Salesforce Technical Consultant</h3>
 
-- 👯 I’m looking for a final year project
-- 🔭 I'm a mobile developer too
-- 🥅 I'm passionate about everything related to web development, devops and cloud
-- ⚡ My current goal is to join a good development company
-- 🌱 I’m currently learning everything 🤣
+- ❤️ I'm a JavaScript Enthusiast ❤️
+- 🔭 My favorite front-end framework if I may say is ReactJS.
+- 💎 My JavaScript knowledge helped me grasp Salesforce frameworks for developing web components (Aura && LWC).
+- 🛠️ 80% of my full stack projects are done using the MERN Stack.
+- 🥅 My current goal is to get more familiar with the Salesforce Ecosystem while not ignoring web development.
+- 🌱 And yeah I know how to center a div 🤣
 
 <h3>Languages & Tools</h3>
 <span><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="40" height="40" /></span>
