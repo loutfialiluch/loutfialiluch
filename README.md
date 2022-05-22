@@ -3,9 +3,9 @@
 <h3>I'm a Salesforce Developer, currently working as a Salesforce Technical Consultant</h3>
 
 - ❤️ I'm a JavaScript Enthusiast ❤️
-- 🔭 I'm a two times Salesforce certified (Administrator & Platform developer I)
+- 🔭 I'm a three times Salesforce certified (Administrator, Platform developer I, & JavaScript Developer I)
 - 💎 My JavaScript knowledge helped me grasp Salesforce frontend frameworks for developing web components (Aura & LWC).
-- 🌐 My Java and OOP knowledge made my learning of the Apex language much easier which is a Java Framework used on the server part of Salesforce Devlopment.
+- 🌐 My Java and OOP knowledge made my learning of the Apex language much easier which is a Java Framework used on the server part of Salesforce development.
 - 🛠️ Most of my full stack web development projects are done using the MERN Stack.
 - 🥅 My current goal is to get more familiar with the Salesforce Ecosystem while not ignoring the evolution of web development.
 - 🌱 And yeah I know how to center a div 😅
