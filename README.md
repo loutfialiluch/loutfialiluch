@@ -1,31 +1,36 @@
-<h2>Greetings, I'm Loutfi 👋</h2>
+<h2>Hello, I'm Loutfi ALILUCH 👋</h2>
+<p>
+  As a former full-stack JavaScript developer, and a Salesforce Technical Consultant with two years of experience in Sales Cloud and Service Cloud, I am passionate about helping businesses customize their Salesforce organizations to meet their unique needs.
+  
+🛠️ I bring to the table:
 
-<h3>I'm a Salesforce Developer, currently working as a Salesforce Technical Consultant</h3>
+- A strong grasp of the Salesforce platform, enabling confident configuration and setup of solutions.
 
-- ❤️ I'm a JavaScript Enthusiast ❤️
-- 🔭 I'm a three times Salesforce certified (Administrator, Platform developer I, & JavaScript Developer I)
-- 💎 My JavaScript knowledge helped me grasp Salesforce frontend frameworks for developing web components (Aura & LWC).
-- 🌐 My Java and OOP knowledge made my learning of the Apex language much easier which is a Java Framework used on the server part of Salesforce development.
-- 🛠️ Most of my full stack web development projects are done using the MERN Stack.
-- 🥅 My current goal is to get more familiar with the Salesforce Ecosystem while not ignoring the evolution of web development.
-- 🌱 And yeah I know how to center a div 😅
+- Expertise in the technical side of Salesforce, including Apex, LWC and Aura, allowing for platform extension and custom development.
 
-<h3>Connect with me :</h3>
-
-<a href="https://www.linkedin.com/in/loutfi-aliluch-540bbb196/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" height="40" width="40" /></a>&nbsp;
-<a href="https://twitter.com/loutfialiluch" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/124/124021.png" height="40" width="40" /></a>&nbsp;
-<a href="https://www.instagram.com/loutfialiluch/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" height="40" width="40" /></a>&nbsp;
-<a href="https://loutfialiluch.netlify.app/" target="blank"><img align="center" src="https://i.ibb.co/5smH4N3/website.png" height="40" width="40" /></a>
-
-<br />
-
-<a href="https://github.com/loutfialiluch">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=loutfialiluch&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
-</a>&nbsp;&nbsp;
-
-<a href="https://github.com/loutfialiluch">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loutfialiluch&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-
-
+- A proactive and consultative approach, offering insights, suggestions for improvement and advice for adopting the best solution.
+  
+<p>🏅 I have 5 Salesforce professionnal certifications:</p>
+<span>
+  <img src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/Administrator.png" height="90" width="90" />
+</span>
+<span>
+  <img src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/Platform-App-Builder.png" height="90" width="90" />
+</span>
+<span>
+  <img src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/Platform-Developer-I.png" height="90" width="90" />
+</span>
+<span>
+  <img src="https://sfdumps.com/wp-content/uploads/2022/04/JavaScript-Developer-I.png" height="90" width="90" />
+</span>
+<span>
+  <img src="https://nebulaconsulting.co.uk/wp-content/uploads/2021/07/SF-Certified_Platform-Developer-II.png" height="90" width="90" />
+</span>
+<br/>
+<p>🎯 I thrive in opportunities that allow me to demonstrate my technical skills and deliver impactful solutions on the Salesforce platform</p>
+  
+<p>🌐 Connecting with new people is always a joy. Don't hesitate to reach out to me on:</p>
+<a href="mailto:aliluch.loutfi@gmail.com" target="blank"><img align="center" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" height="40" width="45" /></a>
+&nbsp;
+<a href="https://www.linkedin.com/in/loutfi-aliluch-salesforce" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" height="45" width="45" /></a>
+</p>
