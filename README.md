@@ -32,5 +32,5 @@
 <p>🌐 Connecting with new people is always a joy. Don't hesitate to reach out to me on:</p>
 <a href="mailto:aliluch.loutfi@gmail.com" target="blank"><img align="center" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" height="40" width="45" /></a>
 &nbsp;
-<a href="https://www.linkedin.com/in/loutfi-aliluch-salesforce" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" height="45" width="45" /></a>
+<a href="https://www.linkedin.com/in/loutfi-aliluch-salesforce" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" height="45" width="45" /></a>
 </p>
